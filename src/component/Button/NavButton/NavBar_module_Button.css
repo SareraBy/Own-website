@@ -1,0 +1,14 @@
+.button{
+
+    color: white;
+    text-decoration: none;
+    font-family: "Verdana";
+    margin-right: 8px;
+    padding: 10px;
+    margin-left: 5px;
+
+}.button:hover{
+    transform: scale(90%);
+ }.button:active{
+       transform: scale(88%);
+   }
