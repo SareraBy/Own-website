@@ -6,6 +6,7 @@ import {Link} from "react-router-dom";
 
 const Contact = () => {
     return (
+
         <div style={{color:"white", textAlign:"center", marginTop:"170px"}}>
 
          <Middle_font>Email: sarerabib@gmail.com</Middle_font>

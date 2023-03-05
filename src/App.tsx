@@ -8,7 +8,9 @@ import Loader from "./pages/Loader";
 function App() {
     return (
         <Routes>
+
             {publicRoutes.map(({path, Component}) => (
+
                 <Route
                     key={path}
                     path={path}
